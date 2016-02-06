@@ -1,5 +1,6 @@
 //Create New component
 import React from 'react'
+import ReactDOM from 'react-dom'
 
 /// const
 const App = function(){
@@ -8,4 +9,4 @@ const App = function(){
 
 
 //render the app in DOM
-React.render(App)
+ReactDOM.render(App)
