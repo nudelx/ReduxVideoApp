@@ -9,4 +9,4 @@ const App = function(){
 
 
 //render the app in DOM
-ReactDOM.render(App)
+ReactDOM.render(<App />, document.querySelector('div.container'))
