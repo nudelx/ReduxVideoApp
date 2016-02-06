@@ -5,12 +5,9 @@ import React, { Component } from 'react';
 //   return <input />;
 // };
 
-//some data 
+//some data
 class SearchBar extends Component {
-  constructor() {
-
-  }
-
+  
   render() {
     return <input />
   }
